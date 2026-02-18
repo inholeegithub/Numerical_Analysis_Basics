@@ -1,1 +1,1 @@
-# Numerical_Analysis_Basics
+# 파이썬을 활용한 수치해석
